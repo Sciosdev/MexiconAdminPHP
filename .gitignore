@@ -1,0 +1,14 @@
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# CodeIgniter secrets
+application/config/database.php
+
+# Optional (si manejas base_url sensible)
+# application/config/config.php
+
+# Logs / cache
+application/logs/
